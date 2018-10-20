@@ -1,0 +1,39 @@
+body{
+    background-color:#000;
+    color:#fff;
+    line-height:50px;
+    text-align:center;
+}
+/* トップ画像 */
+.moon{
+    width:100%;
+    height:400px;
+
+}
+
+#door{
+    width:200px;
+    height:auto;
+}
+
+/* メール画面 */
+.mail{
+    display:block;
+    background:#fff;
+    color:#000;
+    width:50%;
+    text-align:left;
+    line-height:20px;
+    padding:20px;
+    margin:0 auto;
+}
+
+/*　リセットボタン */
+#reset{
+    text-align:right;
+}
+
+/* 文字装飾 */
+.sanity{
+    color:#f00;
+}
